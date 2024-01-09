@@ -1,4 +1,5 @@
-# Bitirme-Projesi-Lisans
+# Bitirme-Projesi-Lisans Fusion Sensor Project; Weather Effect on Object Detection Systems
+
 Özyeğin Üniversitesi'nden mezun olmadan önce 2021 yılında vermiş olduğum Bitirme Projemi ve dosyalarını paylaşmak istedim. 
 Images adlı zip dosyasında matlab üzerinde diyagram, simülasyon, girdiler ve bunların outputlarında ne sonuçlar aldıklarımı görebilirsiniz.
 Sensor fusion denemelerinde ise sadece vehicles diye adlandırdığım matlab dosyasında araçların hareket ettikleri ve belli bir süre sonra durdukları senaryoyu ele aldım. Sensorleri araçlara ekleyip ne sonuçlar aldığımı görebilirsiniz.
